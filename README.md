@@ -1,2 +1,1 @@
-# gramschmidt
-Gram-Schmidt Ortogonalisation and a few examples
+Gram-Schmidt Ortogonalisation with a few examples
