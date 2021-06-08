@@ -1,1 +1,1 @@
-Gram-Schmidt Orthogonalisation with a few examples.
+Gram-Schmidt Orthogonalisation in MATHEMATICA
