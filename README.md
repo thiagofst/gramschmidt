@@ -1,1 +1,1 @@
-Gram-Schmidt Orthogonalisation in MATHEMATICA
+Gram-Schmidt Orthogonalization in MATHEMATICA
